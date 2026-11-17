@@ -1,4 +1,4 @@
-# Day 5: Resume Screening Project
+ Resume Screening Project
 
 An automated, LLM-powered resume parsing and screening system built with **Python**, **Groq LLM API**, and **Pydantic**. It extracts text from candidate resumes in multiple formats (`.pdf`, `.docx`), parses job descriptions into structured requirements, evaluates each candidate using semantic matching, and ranks them with match percentages and recruiter insights.
 
